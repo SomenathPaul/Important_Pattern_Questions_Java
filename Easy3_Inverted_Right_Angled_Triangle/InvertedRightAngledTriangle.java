@@ -1,10 +1,11 @@
-class SolidRectangle {
+package Easy3_Inverted_Right_Angled_Triangle;
+
+public class InvertedRightAngledTriangle {
     public static void main(String[] args) {
         int rows = 5;
-        int cols = 6;
 
         for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
+            for (int j = i; j <rows; j++) {
                 System.out.print("*");
             }
             System.out.println();
