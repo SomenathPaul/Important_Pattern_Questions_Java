@@ -34,6 +34,4 @@ Build logical thinking step by step
 
 ✨ This repo is a step-by-step pattern practice guide in Java — from basic to advanced — for anyone preparing for placements, interviews, or coding contests.
 
-Zig-Zag Pattern
-
-0–1 Triangle
+Thank you for visiting and don't forget to follow.
