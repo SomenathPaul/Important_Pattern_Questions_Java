@@ -5,11 +5,11 @@ Pattern questions are frequently asked in coding interviews, exams, and competit
 
 # 🟢 Easy Patterns
 
-Half Pyramid with Stars.
-Half Pyramid with Numbers.
-Inverted Half Pyramid.
-Floyd’s Triangle.
-Solid Rectangle / Square.
+Half Pyramid with Stars,
+Half Pyramid with Numbers,
+Inverted Half Pyramid,
+Floyd’s Triangle,
+Solid Rectangle / Square
 
 # 🟡 Medium Patterns
 
